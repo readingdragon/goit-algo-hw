@@ -1,7 +1,7 @@
 import heapq
 
 def best_cables_connection(all_cables):
-    heapq.heapify(all_cables)}')
+    heapq.heapify(all_cables)
     
     total_costs = 0
 
